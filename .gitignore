@@ -1,0 +1,56 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aab
+*.jks
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+launcher_icon_*.xml
+
+# Local properties
+local.properties
+
+# Keystore files
+*.keystore
+*.jks
+*.jkstore
+
+# Log/OS Files
+*.log
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+
+# Miscellaneous
+.classpath
+.project
+.settings/
+*.class
+*.swp
+*.swo
+*~
+
+# Compiled class file
+*.class
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
